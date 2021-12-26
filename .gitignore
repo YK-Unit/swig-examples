@@ -120,6 +120,9 @@ Examples/test-suite/errors/*.py
 
 ########## Language specific files ##########
 
+# ruby
+Examples/ruby/**/Makefile
+
 # C#
 Examples/test-suite/csharp/*/
 *runme.exe.mdb
